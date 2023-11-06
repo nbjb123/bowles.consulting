@@ -3700,6 +3700,14 @@
 
 		/* Basic */
 
+			.features-row-center2
+			{
+				align-content: center;
+				padding-top: 20px;
+				padding-left: 10px;
+				padding-right: 10px;
+			}
+
 			body, input, select, textarea {
 				font-size: 11pt;
 			}
